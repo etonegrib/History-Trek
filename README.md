@@ -43,3 +43,7 @@ I also have several name options for this project.
     
 The options for the project icon are also ready:
 
+![image](https://github.com/etonegrib/History-Trek/assets/145133698/68756deb-deec-4089-8103-c0f745e597d8)
+![image](https://github.com/etonegrib/History-Trek/assets/145133698/86ef902d-9c3c-4954-879d-f0e4b08835aa)
+![image](https://github.com/etonegrib/History-Trek/assets/145133698/2642520e-6fde-4e15-8e37-d1815d98661f)
+You can also enter a system of accounts and achievements. Where you earn yourself points by asking questions. The fewer people asked the same thing, the more points you get. Thus, you can learn something new and compete with your friends.
