@@ -1,3 +1,4 @@
+https://vk.com/photo478467453_457250661
 # History-Trek
 My startup
 We have all faced difficulties in studying history. It can really be hard.
