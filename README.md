@@ -1,4 +1,5 @@
-https://vk.com/photo478467453_457250661
+![image](https://github.com/etonegrib/History-Trek/assets/145133698/648ea782-a3ad-4663-b3fb-833a61110eb4)
+
 # History-Trek
 My startup
 We have all faced difficulties in studying history. It can really be hard.
