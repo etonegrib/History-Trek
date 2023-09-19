@@ -6,7 +6,8 @@ We have all faced difficulties in studying history. It can really be hard.
 To facilitate the study of this subject and to raise interest in the history of young generations, I came up with this project. 
 
 
-# The essence of the project is that you can directly ask what you want from different historical figures. For example: if you don't understand the essence or motives of some historical ruler, why not ask him directly? You can make one person responsible for one era so far, so as not to load your project heavily with characters. Let's say: Otto von Bismarck is responsible for the XIX century because he more or less participated in all the events of this era. That is, you can ask the German Chancellor himself how this transition to industrial industry took place in the countries of the XIX century. The same can be done not only with history but also with science, for example, you can directly ask Albert Einstein how he got to the theory of relativity.
+# The essence of the project is that you can directly ask what you want from different historical figures.
+For example: if you don't understand the essence or motives of some historical ruler, why not ask him directly? You can make one person responsible for one era so far, so as not to load your project heavily with characters. Let's say: Otto von Bismarck is responsible for the XIX century because he more or less participated in all the events of this era. That is, you can ask the German Chancellor himself how this transition to industrial industry took place in the countries of the XIX century. The same can be done not only with history but also with science, for example, you can directly ask Albert Einstein how he got to the theory of relativity.
 
 
 # Implementation:
